@@ -1,0 +1,92 @@
+#whole_page{
+norder: 1px soloid black;
+width : 1000px;
+height:559px;
+margin : 20px auto
+}
+
+
+#loginbox li{
+
+display: inline-block;
+list-style:none;
+padding:2px;
+font: bold 14px tahnoma
+
+}
+
+#log{
+
+border-radius: 27px; 
+-moz-border-radius: 27px; 
+-webkit-border-radius: 27px; 
+border: 1px solid ;
+
+}
+#log1{
+
+border-radius:9px; 
+-moz-border-radius: 9px; 
+-webkit-border-radius: 9px;
+ 
+border: 1px solid ;
+
+}
+#side{
+float:right;
+padding:4px;
+width:300px;
+}
+
+#ss-name{
+color :#F781F3;
+font: bold 14px cursive;
+}
+
+#main{
+
+padding:20px;
+}
+
+#main_sec{
+float:left;
+width:660px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
